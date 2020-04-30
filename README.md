@@ -10,7 +10,11 @@ In this paper, we attempt to predict the success of teams participating in the 2
 ### The Data
 We used the [College Basketball Dataset by Andrew Sundberg](https://www.kaggle.com/andrewsundberg/college-basketball-dataset) for our predictions of the 2015-2020 seasons.
 
+### Results
+We found Lasso Regression to be the most accurate regression model for predicting the champion. The most important feature that contributed to how far a team goes in the tournament was Adjusted Defensive Efficiency.
+
 ### 2020 Final Four Prediction
+We then used our model to predict the hypothetical winner of the 2020 tournament if it were to happen given this season's stats.
 <p align="center">
   <img src="imgs/bracket.png">
 </p>
