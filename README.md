@@ -16,7 +16,7 @@ We found Lasso Regression to be the most accurate regression model for predictin
 ### 2020 Final Four Prediction
 We then used our model to predict the winner of the 2020 tournament if it were to happen given this season's stats.
 <p align="center">
-  <img src="imgs/bracket.png">
+  <img src="imgs/forest-final-bracket.png">
 </p>
 
 ### Authors
